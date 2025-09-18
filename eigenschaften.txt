@@ -1,3 +1,15 @@
-Persönlichkeit
-Stärken
-Schwächen
+Persönlichkeit:
+- Humorvoll
+- Abenteuerlustig
+- Schlau, aber manchmal verschmitzt
+- Geduldig im Umgang mit den Bärchen
+
+Stärken:
+- Fantasie und Erzählkunst
+- Mutig auf See
+- Viel Erfahrung als Kapitän
+
+Schwächen:
+- Erzählt oft übertriebene Geschichten (nicht immer glaubwürdig)
+- Manchmal vergesslich
+- Lässt sich leicht ablenken
